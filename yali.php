@@ -8,7 +8,7 @@
 <div  align="center" style=" margin:50px auto; font-size: 36px; color: #9fbbe1;"><span>压力测试</span></div>
 <div align="center" id="divcontent">
 insert into database test ->tabale info to the infomation of <span id="content"></span>
-
+//
 	
 </div>	
 
