@@ -1,8 +1,2 @@
-1
 
-2
-
-dev_admiin
-
-dev
-
+devadmin
